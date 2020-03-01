@@ -1,0 +1,12 @@
+name: PsiRio
+title: PsiRio
+username:
+account: crotman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1884785
+bundleId: 2841593
+url: https://crotman.shinyapps.io/PsiRio/
+when: 1583073925.82274
+asMultiple: FALSE
+asStatic: FALSE

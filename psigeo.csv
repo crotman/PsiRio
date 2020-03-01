@@ -1,0 +1,106 @@
+X1,Nome,Endereço,Bairro,end_completo,lon,lat
+1,Ana Guita Hirszberg,"Av.nossa Senhora de Copacabana, 195, 1109",Copacabana,"Av.nossa Senhora de Copacabana, 195, 1109, Copacabana, Rio de Janeiro, Brasil",-43.1771118,-22.9655547
+2,Bruno Ferraz Rocha Lopes,"Rua Conde de Bonfim, 310, COB 01",Tijuca,"Rua Conde de Bonfim, 310, COB 01, Tijuca, Rio de Janeiro, Brasil",-43.2317307,-22.9231651
+3,Claudia Matias Santos Pinheiro,"R. Conde de Bonfim, 377, sl 609",Tijuca,"R. Conde de Bonfim, 377, sl 609, Tijuca, Rio de Janeiro, Brasil",-43.2339115,-22.9253579
+4,Dirclea Miceli Moutinho,"R. Dr. Pereira dos Santos, 35, 801",Tijuca,"R. Dr. Pereira dos Santos, 35, 801, Tijuca, Rio de Janeiro, Brasil",-43.2334095,-22.9252786
+5,Franciele Gisi Martins de Almeida,"Largo do Machado, 29, SL 809",Catete,"Largo do Machado, 29, SL 809, Catete, Rio de Janeiro, Brasil",-43.1787724,-22.9314901
+6,Jacqueline de Andrade Loeser dos Santos,"R. Visconde de Inhauma, 134, SALA 922",Centro,"R. Visconde de Inhauma, 134, SALA 922, Centro, Rio de Janeiro, Brasil",-43.1806196,-22.8999345
+7,Leila Lopes Rouvier Marzetto,"Nossa Senhora de Copacabana, 605, SALA 1005",Copacabana,"Nossa Senhora de Copacabana, 605, SALA 1005, Copacabana, Rio de Janeiro, Brasil",-43.1855717,-22.9700551
+8,Maggy Xavier Pittas,"Dezenove de Fevereiro, 130, ato 204",Botafogo,"Dezenove de Fevereiro, 130, ato 204, Botafogo, Rio de Janeiro, Brasil",-43.1862582,-22.9536271
+9,Maria Elisabeth Penna Pereira,"Av. N. Sra. de Copacabana, 195, SL. 914",Copacabana,"Av. N. Sra. de Copacabana, 195, SL. 914, Copacabana, Rio de Janeiro, Brasil",-43.1771118,-22.9655547
+10,Mariana Leite Fernandez Paranhos,"Avenida Nossa Senhora de Copacabana, 664, APT 907",Copacabana,"Avenida Nossa Senhora de Copacabana, 664, APT 907, Copacabana, Rio de Janeiro, Brasil",-43.1866101,-22.9704542
+11,Nelly de Azeredo,"R. Santa Clara, 70, SL 1007",Copacabana,"R. Santa Clara, 70, SL 1007, Copacabana, Rio de Janeiro, Brasil",-43.1903471,-22.9776299
+12,Rochelle Haupt Schiliro Zajdsnajder,"Av. Almirante Barroso, 6, SL. 1410",Centro,"Av. Almirante Barroso, 6, SL. 1410, Centro, Rio de Janeiro, Brasil",-43.1772228,-22.9084766
+13,Silvana Maria Araujo de Melo,"Avenida Nossa Senhora de Copacabana, 1072, SALA 906",Copacabana,"Avenida Nossa Senhora de Copacabana, 1072, SALA 906, Copacabana, Rio de Janeiro, Brasil",-43.1909233,-22.9786288
+14,Ana Lucia Cordeiro Cruz,"Rua Visconde de Piraja, 414, SALA 906",Ipanema,"Rua Visconde de Piraja, 414, SALA 906, Ipanema, Rio de Janeiro, Brasil",-43.2073873,-22.9837684
+15,Camila Caetano Ferreira,"Rua General Roca, 826, Sala 803",Tijuca,"Rua General Roca, 826, Sala 803, Tijuca, Rio de Janeiro, Brasil",-43.2338049,-22.9241636
+16,Clea Rawicz,"R.barata Ribeiro, 383, SALA 505",Copacabana,"R.barata Ribeiro, 383, SALA 505, Copacabana, Rio de Janeiro, Brasil",-43.1849316,-22.9682576
+17,Elisabeth do Nascimento Quintanilha,"Rua Jardim Botanico, 635, 606",Jardim Botanico,"Rua Jardim Botanico, 635, 606, Jardim Botanico, Rio de Janeiro, Brasil",-43.2174311,-22.9645862
+18,Georgina Maria Richard Ferreira Cerquise,"R. General Roca, 440, SL. 124",Tijuca,"R. General Roca, 440, SL. 124, Tijuca, Rio de Janeiro, Brasil",-43.2309336,-22.9262802
+19,Joyce Maria Affonso de Castro Mazzei,"Sao Francisco Xavier - Ate 276 - Lado Par, 32, SALA 502",Tijuca,"Sao Francisco Xavier - Ate 276 - Lado Par, 32, SALA 502, Tijuca, Rio de Janeiro, Brasil",-45.9596224,-22.9121423
+20,Licia Magno Lopes Pereira,"Rua do Catete, 311, SALA 1008",Catete,"Rua do Catete, 311, SALA 1008, Catete, Rio de Janeiro, Brasil",-43.17718,-22.9307748
+21,Marcia Jezler Francisco,"Avenida Padre Leonel França, 110, SALA 501",Gavea,"Avenida Padre Leonel França, 110, SALA 501, Gavea, Rio de Janeiro, Brasil",-43.22757259999999,-22.9783678
+22,Maria Elizabeth Cohen de Azevedo,"R. Visconde de Piraja, 259, SL. 404",Ipanema,"R. Visconde de Piraja, 259, SL. 404, Ipanema, Rio de Janeiro, Brasil",-43.2030936,-22.98456
+23,Martha Silveira Mello,"Largo do Machado, 29, SL. 420",Catete,"Largo do Machado, 29, SL. 420, Catete, Rio de Janeiro, Brasil",-43.1787724,-22.9314901
+24,Olena Tanya Maia Souza,"Rua Santo Afonso 131, 131, SL. 704",Tijuca,"Rua Santo Afonso 131, 131, SL. 704, Tijuca, Rio de Janeiro, Brasil",-43.2322364,-22.9230338
+25,Rodrigo Abecassis,"Barata Ribeiro, 391, SALA 702",Copacabana,"Barata Ribeiro, 391, SALA 702, Copacabana, Rio de Janeiro, Brasil",-43.18535199999999,-22.9685962
+26,Sonia Lemos,"Rua Santa Clara, 50, SALA 714",Copacabana,"Rua Santa Clara, 50, SALA 714, Copacabana, Rio de Janeiro, Brasil",-43.1868668,-22.9716311
+27,Ana Lucia Pereira de Oliveira,"Rua Dias da Cruz, 215, SALA 905",Meier,"Rua Dias da Cruz, 215, SALA 905, Meier, Rio de Janeiro, Brasil",-43.2825944,-22.903529
+28,Ceila Maria Couto Doyle,"Rua Conde de Bonfim, 375, SALA 509",Tijuca,"Rua Conde de Bonfim, 375, SALA 509, Tijuca, Rio de Janeiro, Brasil",-43.2337534,-22.9252379
+29,Clotilde Bernadete D Escoffier Gomes,"Rua Nascimento Silva, 331",Ipanema,"Rua Nascimento Silva, 331, Ipanema, Rio de Janeiro, Brasil",-43.2072283,-22.982158
+30,Elisane Melo Penna,"Rua Conde de Bonfim, 370, sala 311",Tijuca,"Rua Conde de Bonfim, 370, sala 311, Tijuca, Rio de Janeiro, Brasil",-43.2334458,-22.9243406
+31,Heloisa Helena de Azevedo Guerra,"Jacarepagua, 7655",Freguesia,"Jacarepagua, 7655, Freguesia, Rio de Janeiro, Brasil",-43.3417243,-22.9422788
+32,July Horowitz,"Rua Cardoso de Morais, 145, SALA 804",Bonsucesso,"Rua Cardoso de Morais, 145, SALA 804, Bonsucesso, Rio de Janeiro, Brasil",-43.2543042,-22.8630438
+33,Lilia Teresa Falconi do Amaral,"Rua Djalma Ulrich, 163, SALA 1004",Copacabana,"Rua Djalma Ulrich, 163, SALA 1004, Copacabana, Rio de Janeiro, Brasil",-43.1911924,-22.9788815
+34,Marcia Regina de Pinho Mauricio,"Rua Desembargador Izidro 28 S/701, 28, sala 701",Tijuca,"Rua Desembargador Izidro 28 S/701, 28, sala 701, Tijuca, Rio de Janeiro, Brasil",-43.2331434,-22.9262318
+35,Maria Helena Chevitarese de Avila,"R. Conde de Bonfim, 370, SL. 717",Tijuca,"R. Conde de Bonfim, 370, SL. 717, Tijuca, Rio de Janeiro, Brasil",-43.2334458,-22.9243406
+36,Mila Palombini de Alencar,"R. Dois de Dezembro, 78, SL. 408",Flamengo,"R. Dois de Dezembro, 78, SL. 408, Flamengo, Rio de Janeiro, Brasil",-43.1768972,-22.9296668
+37,Olivia Regina Henriques Viana,"Rua do Catete, 311, COB 08",Catete,"Rua do Catete, 311, COB 08, Catete, Rio de Janeiro, Brasil",-43.17718,-22.9307748
+38,Rosimery Correa Jaegger,"Rua Dias da Cruz, 215, SALA 902",Meier,"Rua Dias da Cruz, 215, SALA 902, Meier, Rio de Janeiro, Brasil",-43.2825944,-22.903529
+39,Suzanna Schreiber,"Av das Americas, 555, SALA 211",Barra da Tijuca,"Av das Americas, 555, SALA 211, Barra da Tijuca, Rio de Janeiro, Brasil",-43.3216498,-23.0049275
+40,Ana Rosa Rodrigues Tovar,"R. Barcelos Domingos, 32, SALA 502",Campo Grande,"R. Barcelos Domingos, 32, SALA 502, Campo Grande, Rio de Janeiro, Brasil",-43.55870549999999,-22.9010424
+41,Celia Nudelman,"R Santa Clara, 70, SALA 1203",Copacabana,"R Santa Clara, 70, SALA 1203, Copacabana, Rio de Janeiro, Brasil",-43.1872846,-22.9712483
+42,Consuelo Pereira de Almeida,"Gildasio Amado, 55, 1107",Barra da Tijuca,"Gildasio Amado, 55, 1107, Barra da Tijuca, Rio de Janeiro, Brasil",-43.3263538,-23.0032309
+43,Erika Lazary,"Av. das Americas, 7907, BLOCO 04 SALA 213",Barra da Tijuca,"Av. das Americas, 7907, BLOCO 04 SALA 213, Barra da Tijuca, Rio de Janeiro, Brasil",-43.4493515,-23.0098013
+44,Heloisa Maria Lebre de Miranda Costa,"Av. das Americas, 2901, SALA 609",Barra da Tijuca,"Av. das Americas, 2901, SALA 609, Barra da Tijuca, Rio de Janeiro, Brasil",-43.3372711,-23.0011355
+45,Katia Rimes de Carvalho,"Conde de Bonfim -, 370, 1010",Tijuca,"Conde de Bonfim -, 370, 1010, Tijuca, Rio de Janeiro, Brasil",-43.2334458,-22.9243406
+46,Lilian Galper,"Rua Real Grandeza, 182, CASA 03",Botafogo,"Rua Real Grandeza, 182, CASA 03, Botafogo, Rio de Janeiro, Brasil",-43.1926913,-22.9550596
+47,Margaret Souza de Joode,"Rua Desembargador Isidro, 40, SALA 302",Tijuca,"Rua Desembargador Isidro, 40, SALA 302, Tijuca, Rio de Janeiro, Brasil",-43.2332379,-22.9266286
+48,Maria Helena Pastor Azevedo Coutinho,"R. Gal. Roca, 440, SL. 115",Tijuca,"R. Gal. Roca, 440, SL. 115, Tijuca, Rio de Janeiro, Brasil",-43.2309336,-22.9262802
+49,Miriam Felzenszwalb,"R. Barao de Ipanema, 56, SL. 802",Copacabana,"R. Barao de Ipanema, 56, SL. 802, Copacabana, Rio de Janeiro, Brasil",-43.18972249999999,-22.9746919
+50,Patricia Oliveira Soeiro,"Armando Lombardi, 1000, BLOCO 2 SALA 234",Barra da Tijuca,"Armando Lombardi, 1000, BLOCO 2 SALA 234, Barra da Tijuca, Rio de Janeiro, Brasil",-43.314107,-23.0055873
+51,Rosimery Correa Jaegger,"General Roca, 935, Sl 802",Tijuca,"General Roca, 935, Sl 802, Tijuca, Rio de Janeiro, Brasil",-43.23497649999999,-22.9238429
+52,Tania Maria Salazar Livio,"Av das Americas, 16355, SL 212",Recreio dos Bandeirantes,"Av das Americas, 16355, SL 212, Recreio dos Bandeirantes, Rio de Janeiro, Brasil",-43.4718156,-23.0163635
+53,Andrea Bueno do Prado Bastos Tigre,"Rua Visconde de Piraja, 430, SALA 606",Ipanema,"Rua Visconde de Piraja, 430, SALA 606, Ipanema, Rio de Janeiro, Brasil",-43.2078074,-22.9837932
+54,Clarissa Gouvea Stein Lopes,"Araguaia, 520, SALA 101",Freguesia,"Araguaia, 520, SALA 101, Freguesia, Rio de Janeiro, Brasil",-43.3415462,-22.936924
+55,Cristina Frederico da Silva,"R. Custodio Serrao, 10",Jardim Botanico,"R. Custodio Serrao, 10, Jardim Botanico, Rio de Janeiro, Brasil",-43.20537530000001,-22.9609697
+56,Fabricia de Figueiredo Camoes,"Guilhermina Guinle, 114",Botafogo,"Guilhermina Guinle, 114, Botafogo, Rio de Janeiro, Brasil",-43.1880312,-22.9515593
+57,Hilton Sergio Gouveia,"Rua Silva Cardoso, 154, SALA 411",Bangu,"Rua Silva Cardoso, 154, SALA 411, Bangu, Rio de Janeiro, Brasil",-43.4640664,-22.8769792
+58,Katja Linnemann Milanez,"Real Grandeza, 139, 907",Botafogo,"Real Grandeza, 139, 907, Botafogo, Rio de Janeiro, Brasil",-43.1928,-22.954027
+59,Lilian Goes do Espirito Santo,"Avenida das Américas, 16355, SALA 208",Recreio dos Bandeirantes,"Avenida das Américas, 16355, SALA 208, Recreio dos Bandeirantes, Rio de Janeiro, Brasil",-43.4718156,-23.0163635
+60,Margarida Nunes Monteiro,"Rua Dias da Cruz, 155, 413",Meier,"Rua Dias da Cruz, 155, 413, Meier, Rio de Janeiro, Brasil",-43.2814202,-22.9027639
+61,Maria Izabel de Souza,"Monsenhor Alves Rocha, 140, 609",Penha,"Monsenhor Alves Rocha, 140, 609, Penha, Rio de Janeiro, Brasil",-43.276249,-22.8416048
+62,Miriam Prata de Oliveira,"Silva Pinto, 49, SALA 713",Vila Isabel,"Silva Pinto, 49, SALA 713, Vila Isabel, Rio de Janeiro, Brasil",-43.2479443,-22.9164485
+63,Patricia Oliveira Soeiro,"Rua General Espirito Santo Cardoso, 350, CASA 08 A",Tijuca,"Rua General Espirito Santo Cardoso, 350, CASA 08 A, Tijuca, Rio de Janeiro, Brasil",-43.245996,-22.930929
+64,Rosinah Brandao Dias,"R. Conde de Bonfim, 377, 805",Tijuca,"R. Conde de Bonfim, 377, 805, Tijuca, Rio de Janeiro, Brasil",-43.2339115,-22.9253579
+65,Vania Maria de Carvalho Olivieri,"Conde de Bonfim, 377, SALA 611",Tijuca,"Conde de Bonfim, 377, SALA 611, Tijuca, Rio de Janeiro, Brasil",-43.2339115,-22.9253579
+66,Andreia da Rocha Lima,"Nossa Senhora de Copacabana, 1066, AP 1108",Copacabana,"Nossa Senhora de Copacabana, 1066, AP 1108, Copacabana, Rio de Janeiro, Brasil",-43.1910222,-22.9784728
+67,Clarissa Gouvea Stein Lopes,"Avenida das Americas, 19005, BLOCO 001 SALA 1123",Recreio dos Bandeirantes,"Avenida das Americas, 19005, BLOCO 001 SALA 1123, Recreio dos Bandeirantes, Rio de Janeiro, Brasil",-43.4861673,-23.0201275
+68,Danielle Moreira Cavalheiro,"Rua Elvira Machado, 7, CASA 5 A",Botafogo,"Rua Elvira Machado, 7, CASA 5 A, Botafogo, Rio de Janeiro, Brasil",-43.1856788,-22.955557
+69,Fernanda Calixto Saint Martin Leite,"R. Santa Clara, 70, SL 1007",Copacabana,"R. Santa Clara, 70, SL 1007, Copacabana, Rio de Janeiro, Brasil",-43.1903471,-22.9776299
+70,Ione Gelbert,"Rua Visconde de Piraja, 608, SALA 709",Ipanema,"Rua Visconde de Piraja, 608, SALA 709, Ipanema, Rio de Janeiro, Brasil",-43.21318369999999,-22.9835215
+71,Keissy Monique Goncalves Coelho de Sa,"Intendente Magalhães, 1041, SL 201",Bento Ribeiro,"Intendente Magalhães, 1041, SL 201, Bento Ribeiro, Rio de Janeiro, Brasil",-43.3673626,-22.8773893
+72,Lucilia Maria da Silva Carvalho Sousa,"Cardoso de Morais, 61, SL 511",Bonsucesso,"Cardoso de Morais, 61, SL 511, Bonsucesso, Rio de Janeiro, Brasil",-43.2552109,-22.8646762
+73,Maria Cecilia Albuquerque Maranhao de Amorim,"Praia de Botafogo, 210, SALA 908",Botafogo,"Praia de Botafogo, 210, SALA 908, Botafogo, Rio de Janeiro, Brasil",-43.180596,-22.9419137
+74,Maria Lucia de Castro Alves,"R. Bento Lisboa, 184, SL. 212",Largo do Machado,"R. Bento Lisboa, 184, SL. 212, Largo do Machado, Rio de Janeiro, Brasil",-43.177961,-22.9309476
+75,Monica Coutinho Herszage,"R. Real Grandeza, 182, casa 5A",Botafogo,"R. Real Grandeza, 182, casa 5A, Botafogo, Rio de Janeiro, Brasil",-43.1926913,-22.9550596
+76,Paula Issberner Legey,"Av. Nossa Senhora de Copacabana, 647, 911",Copacabana,"Av. Nossa Senhora de Copacabana, 647, 911, Copacabana, Rio de Janeiro, Brasil",-43.18625979999999,-22.9707688
+77,Rosineide Rodrigues de Souza,"Viuva Dantas, 214, Salas 513 e 514",Campo Grande,"Viuva Dantas, 214, Salas 513 e 514, Campo Grande, Rio de Janeiro, Brasil",-43.5570524,-22.9033902
+78,Vera Maria Vinheiro Brandao,"R. Humaita, 144, SALA 502",Humaita,"R. Humaita, 144, SALA 502, Humaita, Rio de Janeiro, Brasil",-43.1995575,-22.9578922
+79,Annita Janette Palumbo Doria,"Rua Engenheiro Enaldo Cravo Peixoto, 105, SALA 418",Tijuca,"Rua Engenheiro Enaldo Cravo Peixoto, 105, SALA 418, Tijuca, Rio de Janeiro, Brasil",-43.23444610000001,-22.9214634
+80,Claudia de Paiva Pessoa Loureiro,"Av das Americas, 2250, SALA 224",Barra da Tijuca,"Av das Americas, 2250, SALA 224, Barra da Tijuca, Rio de Janeiro, Brasil",-43.3397631,-22.9996858
+81,Deborah Barboza Souza,"Avenida N. S. de Copacabana, 680, SL 908",Copacabana,"Avenida N. S. de Copacabana, 680, SL 908, Copacabana, Rio de Janeiro, Brasil",-43.1867549,-22.9707441
+82,Fernanda Pereira Salomao,"Conde de Itaguai, 28, SALA 2A",Tijuca,"Conde de Itaguai, 28, SALA 2A, Tijuca, Rio de Janeiro, Brasil",-43.236843,-22.927362
+83,Isabene de Carvalho Salamon,"Estrada de Jacarepagua, 7655, SALA 418",Freguesia,"Estrada de Jacarepagua, 7655, SALA 418, Freguesia, Rio de Janeiro, Brasil",-43.3417243,-22.9422788
+84,Khristian Barbalho Fragoso de Sequeira,"Avenida Rio Branco, 181, 705",Centro,"Avenida Rio Branco, 181, 705, Centro, Rio de Janeiro, Brasil",-43.1765179,-22.9072802
+85,Luise de Souza Cozzolino Soares,"Rua Engenheiro Enaldo Cravo Peixoto, 105, SALA 409",Tijuca,"Rua Engenheiro Enaldo Cravo Peixoto, 105, SALA 409, Tijuca, Rio de Janeiro, Brasil",-43.23444610000001,-22.9214634
+86,Maria Cecilia Ferreira Godinho,"Praça Saiqui, 42, SL 509",Vila Valqueire,"Praça Saiqui, 42, SL 509, Vila Valqueire, Rio de Janeiro, Brasil",-43.3677396,-22.8826957
+87,Maria Lucia Zouain Sampaio,"Praia de Botafogo, 210, 507",Botafogo,"Praia de Botafogo, 210, 507, Botafogo, Rio de Janeiro, Brasil",-43.180596,-22.9419137
+88,Monica Pereira Marques Mayon Neves,"R. Conde de Bonfim, 370, SL. 309",Tijuca,"R. Conde de Bonfim, 370, SL. 309, Tijuca, Rio de Janeiro, Brasil",-43.2334458,-22.9243406
+89,Renata Espinola de Carvalho,"R.conde de Bonfim, 377, SL. 811",Tijuca,"R.conde de Bonfim, 377, SL. 811, Tijuca, Rio de Janeiro, Brasil",-43.2339115,-22.9253579
+90,Samantha Lemos Ferreira Albuquerque,"R.martins Ferreira, 32",Botafogo,"R.martins Ferreira, 32, Botafogo, Rio de Janeiro, Brasil",-43.19542,-22.953157
+91,Vera Schmitz,"Estr. do Portela, 99, SL. 604",Madureira,"Estr. do Portela, 99, SL. 604, Madureira, Rio de Janeiro, Brasil",-43.33904649999999,-22.8730047
+92,Ana Carla Lima Ribeiro,"Av. Nossa Senhora de Copacabana, 435, 1103",Copacabana,"Av. Nossa Senhora de Copacabana, 435, 1103, Copacabana, Rio de Janeiro, Brasil",-43.18213180000001,-22.9678036
+93,Bruno Ferraz Rocha Lopes,"Rua do Catete, 310, SALA 301",Catete,"Rua do Catete, 310, SALA 301, Catete, Rio de Janeiro, Brasil",-43.1779324,-22.9315639
+94,Claudia Matias Santos Pinheiro,"Coronel Pedro Correia, 740, sl 606",Jacarepagua,"Coronel Pedro Correia, 740, sl 606, Jacarepagua, Rio de Janeiro, Brasil",-43.3912407,-22.9671434
+95,Deise Rosa Nogueira,"Rua Carvalho Alvim, 689, APTO 101",Tijuca,"Rua Carvalho Alvim, 689, APTO 101, Tijuca, Rio de Janeiro, Brasil",-43.2473129,-22.9291209
+96,Floripes Goncalves de Azevedo,"Rua Coronel Agostinho, 142, 307",Campo Grande,"Rua Coronel Agostinho, 142, 307, Campo Grande, Rio de Janeiro, Brasil",-43.55955170000001,-22.9046618
+97,Ivoneide Viana da Silva,"Estrada do Galeão, 961, SALA 328",Jardim Guanabara - Ilha do Governador,"Estrada do Galeão, 961, SALA 328, Jardim Guanabara - Ilha do Governador, Rio de Janeiro, Brasil",-43.19444439999999,-22.8111521
+98,Lais da Cruz Freixo Motta,"R. Conde de Bonfim, 370, SALA 911",Tijuca,"R. Conde de Bonfim, 370, SALA 911, Tijuca, Rio de Janeiro, Brasil",-43.2334458,-22.9243406
+99,Luiza Brandao & Sergio Neves Servicos Psicologicos,"Rua Engenheiro Pena Chaves, 27, 101",Jardim Botanico,"Rua Engenheiro Pena Chaves, 27, 101, Jardim Botanico, Rio de Janeiro, Brasil",-43.221298,-22.961967
+100,Maria de Fatima Vieira C da Fonseca e Silva,"Rua Voluntarios da Patria, 450, Sala 606",Botafogo,"Rua Voluntarios da Patria, 450, Sala 606, Botafogo, Rio de Janeiro, Brasil",-43.1973146,-22.9557524
+101,Maria Teresa Barbosa Martins,"Rua Mario Pederneiras, 31",Botafogo,"Rua Mario Pederneiras, 31, Botafogo, Rio de Janeiro, Brasil",-43.1982276,-22.9527155
+102,Nancy Mendonca Assemany,"R. Conde de Iraja, 110",Botafogo,"R. Conde de Iraja, 110, Botafogo, Rio de Janeiro, Brasil",-43.196,-22.95356
+103,Roberto Pinheiro de Carvalho,"R. Santo Afonso, 131, SL. 601",Tijuca,"R. Santo Afonso, 131, SL. 601, Tijuca, Rio de Janeiro, Brasil",-43.2322364,-22.9230338
+104,Sezeferina da Conceicao Pereira Leite Daumas,"Estrada do Galeão, 766, SALA 308",Ilha do Governador,"Estrada do Galeão, 766, SALA 308, Ilha do Governador, Rio de Janeiro, Brasil",-43.1921569,-22.8116168
+105,Wanda Santos da Cruz Tristão,"Rua da Feira, 159, SALA 206",Bangu,"Rua da Feira, 159, SALA 206, Bangu, Rio de Janeiro, Brasil",-43.4680352,-22.8803347
